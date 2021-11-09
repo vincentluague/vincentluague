@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola, I'm Vincent Luague 👋
 
-<!--
-**vincentluague/vincentluague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Appen Ltd.
+- 🌱 I’m currently learning Ruby on Rails
+- 👯 I’m looking to collaborate on making an app that will help many people
+- 🤔 I’m looking for help with api wrapper on ruby on rails
+- 💬 Ask me about any tech related stuff.
+- 📫 How to reach me: Facebook: Vincent Luague / E-mail: vincentluague07@gmail.com / Instagram: vincent_venice
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a Katsaridaphobia
+
